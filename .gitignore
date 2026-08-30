@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.o
+*.class
+out/
+build/
+poker_equity
+run_tests
