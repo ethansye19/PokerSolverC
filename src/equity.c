@@ -3,7 +3,7 @@
 #include <string.h>
 #include "evaluator.h"
 #include "ranges.h"
-
+// Equity
 double simulate_equity(const CardList *hero, const CardList *board, const CardList *remainingDeck,
                         const char *positionKey, int trials, int numOpponents) {
     double equitySum = 0.0;
