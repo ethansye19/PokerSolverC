@@ -1,6 +1,6 @@
 #include "evaluator.h"
 #include <string.h>
-
+//Eval
 /* All 21 ways to choose 5 indices out of 7, built once on first use. */
 static int g_combos[21][5];
 static int g_combosBuilt = 0;
