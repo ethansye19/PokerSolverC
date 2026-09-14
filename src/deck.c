@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+// test
 static const char kSuits[4] = {'s', 'h', 'd', 'c'};
 
 void rank_label(int rank, char *buf) {
