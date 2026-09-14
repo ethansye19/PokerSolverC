@@ -1,5 +1,6 @@
 /* tests/test_evaluator.c — benchmark tests, mirroring the JS/Python/C++ suites.
  * Build & run via `make test`. */
+//TESTTESTTESTTEST
 
 #include <math.h>
 #include <stdio.h>
